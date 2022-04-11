@@ -1,5 +1,5 @@
 - 👋 Yoo, I’m @maschollan or Chollan
-- 👀 I’m interested in CSS, Bootstrap, PHP, Codeigniter, Java and of course Stackoverflow
+- 👀 I’m interested in CSS, Bootstrap, PHP, Laravel, Python and of course Stackoverflow
 - 📫 Contact me at kholan.childs404@gmail.com
 
 <!---
